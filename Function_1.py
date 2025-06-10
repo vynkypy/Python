@@ -1,6 +1,4 @@
 # 1️⃣ Define a function that calculates the factorial of a number.
-
-
 def factorial(var1):
     temp = 1
 
