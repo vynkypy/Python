@@ -1,3 +1,4 @@
+# Practice Questions
 # # sales = [
 # # {"product": "Widget", "quantity": 5},
 # # {"product": "Gadget", "quantity": 3},
